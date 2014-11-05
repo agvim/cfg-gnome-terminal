@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="default_show_menubar" mtime="1415195340" type="bool" value="false"/>
+	<entry name="use_theme_colors" mtime="1415195340" type="bool" value="false"/>
+	<entry name="font" mtime="1415195340" type="string">
+		<stringvalue>Inconsolata Medium 12</stringvalue>
+	</entry>
+	<entry name="use_system_font" mtime="1415195340" type="bool" value="false"/>
+	<entry name="palette" mtime="1415195585" type="string">
+		<stringvalue>#00002B2A3636:#DCDC32312F2F:#858599990000:#B5B589890000:#26268B8AD2D2:#D3D336368281:#2A29A1A19898:#838394949696:#070736354242:#CBCB4B4B1616:#7271CCCC3D3D:#CFCFBFBF1515:#59599696EBEB:#6C6C7171C4C4:#5656BABAB2B2:#FDFDF6F6E3E3</stringvalue>
+	</entry>
+	<entry name="alternate_screen_scroll" mtime="1415195340" type="bool" value="true"/>
+	<entry name="background_color" mtime="1415195340" type="string">
+		<stringvalue>#00002B2A3636</stringvalue>
+	</entry>
+	<entry name="visible_name" mtime="1415195340" type="string">
+		<stringvalue>Default</stringvalue>
+	</entry>
+	<entry name="bold_color" mtime="1415195340" type="string">
+		<stringvalue>#000000000000</stringvalue>
+	</entry>
+	<entry name="foreground_color" mtime="1415195340" type="string">
+		<stringvalue>#838394949696</stringvalue>
+	</entry>
+</gconf>
