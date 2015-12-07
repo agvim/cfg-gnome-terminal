@@ -1,7 +1,7 @@
 # cfg-gnome-terminal: The default gnome-terminal configuration
 
 This is a homeshick configuration repository. See
-https://github.com/andsens/homeshick
+https://github.com/agvim/homeshick
 
 Configuration consists in
 - solarized values
