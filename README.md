@@ -7,3 +7,5 @@ Configuration consists in
 - solarized values
 - Inconsolata font
 - do not show menus
+
+Note that the configuration is applied via dconf ('dconf-cli' package)
